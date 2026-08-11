@@ -1,0 +1,17 @@
+# Generated datasets
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
